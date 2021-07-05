@@ -1,5 +1,5 @@
 import moviesCollection from "./movies.json";
-import Icon from "./icon.json";
+import Icon from "./icons.json";
 
 import "./main.scss";
 
